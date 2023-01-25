@@ -6,6 +6,7 @@ public class For {
 		for(int i=1;i<=100;i++)
 		{
 			System.out.println("&");
+			System.out.println("123");
 			
 		}
 	}
